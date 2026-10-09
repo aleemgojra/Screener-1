@@ -1,1 +1,1 @@
-{"generated":null,"stocks":[]}
+{"generated":"2026-10-09T02:14:19+00:00","rules":{"peMax":20.0,"volMult":2.0,"rsiMin":50.0},"universe":{"NYSE":2088,"NASDAQ":3266},"scanned":5354,"passedRsiVolume":84,"noPe":84,"stocks":[]}
