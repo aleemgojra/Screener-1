@@ -1,1 +1,1 @@
-{"generated":"2026-10-17T00:36:32+00:00","rules":{"peMax":20.0,"volMult":2.0,"rsiMin":50.0},"universe":{"NASDAQ":3273,"NYSE":2083},"scanned":5356,"passedRsiVolume":107,"noPe":107,"stocks":[]}
+{"generated":"2026-10-20T01:09:06+00:00","rules":{"peMax":20.0,"volMult":2.0,"rsiMin":50.0},"universe":{"NYSE":2081,"NASDAQ":3271},"scanned":5352,"passedRsiVolume":110,"noPe":110,"stocks":[]}
